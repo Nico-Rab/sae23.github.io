@@ -26,12 +26,12 @@ This web application displays real‐time and historical wind data (“ventilome
 - **Front End:**  
   - HTML5  
   - CSS3  
-  - JavaScript (vanilla)  
-  - Bootstrap (for responsive layouts)
+  - JavaScript 
+  - Bootstrap 
 
 - **Back End:**  
   - PHP 7+  
-  - Apache (RT-Serv hosting)
+  - Apache
 
 - **Database:**  
   - MySQL (relational schema with tables for students, addresses, wind records)
@@ -39,10 +39,7 @@ This web application displays real‐time and historical wind data (“ventilome
 - **APIs:**  
   - OpenWeather API (wind speed & direction)
 
-- **Development Tools:**  
-  - Visual Studio Code (with “Live Server”/“Go Live” extension)  
-  - Git (version control)
-  
+
 ![image](https://github.com/user-attachments/assets/e6ac7526-d727-4fdf-a295-a05cac4beb2b)
 
 ![image](https://github.com/user-attachments/assets/4a114773-6dc1-48b2-8881-e64b99c27349)

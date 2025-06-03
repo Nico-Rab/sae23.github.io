@@ -46,3 +46,5 @@ This web application displays real‐time and historical wind data (“ventilome
 ![image](https://github.com/user-attachments/assets/e6ac7526-d727-4fdf-a295-a05cac4beb2b)
 
 ![image](https://github.com/user-attachments/assets/4a114773-6dc1-48b2-8881-e64b99c27349)
+
+![image](https://github.com/user-attachments/assets/59c82b89-d395-437e-b03f-e919703a4f7f)

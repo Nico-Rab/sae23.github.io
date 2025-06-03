@@ -1,7 +1,7 @@
 # Ventilometer Web Application
 
 ## Overview
-This web application displays real‐time and historical wind data (“ventilometer”) for first‐year R&T (Networks & Telecommunications) students. It maps the primary and secondary residences of each student, retrieves daily wind information via the OpenWeather API, stores all data in a MySQL database, and presents both current and historical wind conditions for each student.
+This web application displays real‐time and historical wind data (“ventilometer”) for first‐year Networks & Telecommunications students. It maps the primary and secondary residences of each student, retrieves daily wind information via the OpenWeather API, stores all data in a MySQL database, and presents both current and historical wind conditions for each student.
 
 ## Features
 - **Data Input & Storage**
@@ -21,7 +21,6 @@ This web application displays real‐time and historical wind data (“ventilome
 
 - **Responsive Design & UX**
   - Clean, custom CSS styling.
-  - Graceful handling of edge cases (e.g., invalid postal codes or missing API key).
 
 ## Technology Stack
 - **Front End:**  
@@ -44,9 +43,4 @@ This web application displays real‐time and historical wind data (“ventilome
   - Visual Studio Code (with “Live Server”/“Go Live” extension)  
   - Git (version control)
 
-## Installation
-
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/your-username/ventilometer.git
-   cd ventilometer
+  ![image](https://github.com/user-attachments/assets/4a114773-6dc1-48b2-8881-e64b99c27349)

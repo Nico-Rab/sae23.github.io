@@ -1,7 +1,7 @@
 # Ventilometer Web Application
 
 ## Overview
-This web application displays real‐time and historical wind data (“ventilometer”) for first‐year Networks & Telecommunications students. It maps the primary and secondary residences of each student, retrieves daily wind information via the OpenWeather API, stores all data in a MySQL database, and presents both current and historical wind conditions for each student.
+This web application displays real‐time and historical wind data (“ventilometer”) for first‐year Networks & Telecommunications students. It maps the primary and secondary residences of each student, retrieves daily wind information via the OpenWeather API, stores all data in a MySQL database, and presents both current and secondary wind conditions for each student.
 
 ## Features
 - **Data Input & Storage**
